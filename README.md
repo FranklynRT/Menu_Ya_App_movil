@@ -30,7 +30,6 @@ Diseño responsive que funciona tanto en Android como en iOS.
 
 * **Frontend:** Flutter & Dart
 * **Gestión de Estado:** StatefulWidgets
-* **Backend (Próximamente):** Node.js con MySQL
 * **Iconos y Estilo:** Material Design 3
 
 ---
