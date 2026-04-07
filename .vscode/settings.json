@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "editor.formatOnSave": true,
+    "dart.flutterHotReloadOnSave": true,
+    "dart.flutterHotRestartOnSave": false,
+    "dart.flutterRunLogFile": "${workspaceFolder}/.vscode/flutter_run.log"
+}
